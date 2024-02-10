@@ -82,7 +82,6 @@ p {
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-clip: text;
   filter: grayscale(100%) invert(100%);
   mix-blend-mode: hard-light;
